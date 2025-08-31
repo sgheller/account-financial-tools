@@ -58,5 +58,5 @@
     # instale
     'auto_install': True,
     'application': False,
-    'post_load': 'monkey_patches',
+    # 'post_load': 'monkey_patches',
 }
